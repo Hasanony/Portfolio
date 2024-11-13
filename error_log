@@ -1,0 +1,137 @@
+[14-Sep-2024 13:30:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/purbacha/mirabdulalim.com/index.php:1022
+Stack trace:
+#0 {main}
+  thrown in /home/purbacha/mirabdulalim.com/index.php on line 1022
+[14-Sep-2024 13:30:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/purbacha/mirabdulalim.com/index.php:1022
+Stack trace:
+#0 {main}
+  thrown in /home/purbacha/mirabdulalim.com/index.php on line 1022
+[14-Sep-2024 13:31:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/purbacha/mirabdulalim.com/index.php:1020
+Stack trace:
+#0 {main}
+  thrown in /home/purbacha/mirabdulalim.com/index.php on line 1020
+[14-Sep-2024 13:36:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/purbacha/mirabdulalim.com/index.php:1020
+Stack trace:
+#0 {main}
+  thrown in /home/purbacha/mirabdulalim.com/index.php on line 1020
+[14-Sep-2024 13:37:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1046
+[14-Sep-2024 13:37:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1051
+[14-Sep-2024 13:37:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1051
+[14-Sep-2024 13:37:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1056
+[14-Sep-2024 13:37:30 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1061
+[14-Sep-2024 13:38:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1046
+[14-Sep-2024 13:38:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1051
+[14-Sep-2024 13:38:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1051
+[14-Sep-2024 13:38:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1056
+[14-Sep-2024 13:38:10 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1061
+[14-Sep-2024 13:38:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1046
+[14-Sep-2024 13:38:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1051
+[14-Sep-2024 13:38:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1051
+[14-Sep-2024 13:38:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1056
+[14-Sep-2024 13:38:15 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1061
+[14-Sep-2024 13:38:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1046
+[14-Sep-2024 13:38:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1051
+[14-Sep-2024 13:38:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1051
+[14-Sep-2024 13:38:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1056
+[14-Sep-2024 13:38:32 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1061
+[14-Sep-2024 13:38:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1046
+[14-Sep-2024 13:38:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1051
+[14-Sep-2024 13:38:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1051
+[14-Sep-2024 13:38:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1056
+[14-Sep-2024 13:38:33 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1061
+[14-Sep-2024 13:42:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1046
+[14-Sep-2024 13:42:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1051
+[14-Sep-2024 13:42:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1051
+[14-Sep-2024 13:42:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1056
+[14-Sep-2024 13:42:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1061
+[14-Sep-2024 13:49:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1046
+[14-Sep-2024 13:49:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1051
+[14-Sep-2024 13:49:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1051
+[14-Sep-2024 13:49:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1056
+[14-Sep-2024 13:49:36 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1061
+[14-Sep-2024 13:51:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1046
+[14-Sep-2024 13:51:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1051
+[14-Sep-2024 13:51:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1051
+[14-Sep-2024 13:51:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1056
+[14-Sep-2024 13:51:06 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1061
+[14-Sep-2024 13:53:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1049
+[14-Sep-2024 13:53:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1054
+[14-Sep-2024 13:53:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1054
+[14-Sep-2024 13:53:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1059
+[14-Sep-2024 13:53:18 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1064
+[14-Sep-2024 13:53:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1049
+[14-Sep-2024 13:53:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1054
+[14-Sep-2024 13:53:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1054
+[14-Sep-2024 13:53:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1059
+[14-Sep-2024 13:53:46 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1064
+[14-Sep-2024 13:54:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1049
+[14-Sep-2024 13:54:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1054
+[14-Sep-2024 13:54:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1054
+[14-Sep-2024 13:54:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1059
+[14-Sep-2024 13:54:08 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1064
+[14-Sep-2024 14:00:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1049
+[14-Sep-2024 14:00:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1054
+[14-Sep-2024 14:00:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1054
+[14-Sep-2024 14:00:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1059
+[14-Sep-2024 14:00:54 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1064
+[14-Sep-2024 14:01:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1049
+[14-Sep-2024 14:01:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1054
+[14-Sep-2024 14:01:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1054
+[14-Sep-2024 14:01:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1059
+[14-Sep-2024 14:01:00 UTC] PHP Notice:  Trying to access array offset on value of type null in /home/purbacha/mirabdulalim.com/index.php on line 1064
+[16-Sep-2024 16:04:54 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/purbacha/mirabdulalim.com/index.php:1160
+Stack trace:
+#0 {main}
+  thrown in /home/purbacha/mirabdulalim.com/index.php on line 1160
+[16-Sep-2024 16:05:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/purbacha/mirabdulalim.com/index.php:1529
+Stack trace:
+#0 {main}
+  thrown in /home/purbacha/mirabdulalim.com/index.php on line 1529
+[16-Sep-2024 16:05:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/purbacha/mirabdulalim.com/index.php:1529
+Stack trace:
+#0 {main}
+  thrown in /home/purbacha/mirabdulalim.com/index.php on line 1529
+[16-Sep-2024 16:06:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/purbacha/mirabdulalim.com/index.php:1524
+Stack trace:
+#0 {main}
+  thrown in /home/purbacha/mirabdulalim.com/index.php on line 1524
+[16-Sep-2024 16:07:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/purbacha/mirabdulalim.com/index.php:1524
+Stack trace:
+#0 {main}
+  thrown in /home/purbacha/mirabdulalim.com/index.php on line 1524
+[16-Sep-2024 16:08:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/purbacha/mirabdulalim.com/index.php:1160
+Stack trace:
+#0 {main}
+  thrown in /home/purbacha/mirabdulalim.com/index.php on line 1160
+[16-Sep-2024 16:08:35 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/purbacha/mirabdulalim.com/index.php:1544
+Stack trace:
+#0 {main}
+  thrown in /home/purbacha/mirabdulalim.com/index.php on line 1544
+[16-Sep-2024 16:10:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/purbacha/mirabdulalim.com/index.php:1161
+Stack trace:
+#0 {main}
+  thrown in /home/purbacha/mirabdulalim.com/index.php on line 1161
+[16-Sep-2024 16:11:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/purbacha/mirabdulalim.com/index.php:1156
+Stack trace:
+#0 {main}
+  thrown in /home/purbacha/mirabdulalim.com/index.php on line 1156
+[16-Sep-2024 16:15:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/purbacha/mirabdulalim.com/index.php:1161
+Stack trace:
+#0 {main}
+  thrown in /home/purbacha/mirabdulalim.com/index.php on line 1161
+[16-Sep-2024 16:16:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/purbacha/mirabdulalim.com/index.php:1157
+Stack trace:
+#0 {main}
+  thrown in /home/purbacha/mirabdulalim.com/index.php on line 1157
+[16-Sep-2024 16:16:07 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/purbacha/mirabdulalim.com/index.php:1157
+Stack trace:
+#0 {main}
+  thrown in /home/purbacha/mirabdulalim.com/index.php on line 1157
+[16-Sep-2024 16:16:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/purbacha/mirabdulalim.com/index.php:1157
+Stack trace:
+#0 {main}
+  thrown in /home/purbacha/mirabdulalim.com/index.php on line 1157
+[16-Sep-2024 16:17:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/purbacha/mirabdulalim.com/index.php:1161
+Stack trace:
+#0 {main}
+  thrown in /home/purbacha/mirabdulalim.com/index.php on line 1161
