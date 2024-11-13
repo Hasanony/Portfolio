@@ -404,7 +404,7 @@ $social = $social_result->fetch_assoc();
         <p>&copy; 2024 News Website. All Rights Reserved.</p>
     </footer>
 
-    <!-- Bootstrap JS and Font Awesome -->
+    <!-- Bootstrap JScript and Font Awesome -->
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
 </body>
